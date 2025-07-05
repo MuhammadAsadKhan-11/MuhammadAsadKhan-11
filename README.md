@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td valign="top">
-      <h3 align="left">Machine Learning & Web Enthusiast <br> Software Engineering Student</h3>
+      <h3 align="left">Machine Learning Enthusiast <br> Software Engineering Student</h3>
     </td>
     <td>
       <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="280" style="margin-top: 10px;" />
