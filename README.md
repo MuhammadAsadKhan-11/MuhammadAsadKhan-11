@@ -20,8 +20,9 @@
 🌱 I'm a student of Software Engineering at NUML Islamabad, working on Machine Learning & Web Technologies.  
 💻 Currently building projects using Python,  Pandas, and Machine Learning libraries.  
 📊 Interested in solving real-world problems in education, healthcare, and data analysis.  
-📫 How to reach me: **asadkhansp2310861@gmail.com**  
-🌐 Portfolio: [My Portfolio Website](https://yourportfolio.link)
+📫 How to reach me: **asadkhansp2310861@gmail.com**
+
+<!--🌐 Portfolio: [My Portfolio Website](https://yourportfolio.link) -->
 
 ---
 
@@ -35,31 +36,23 @@
 
 ---
 
-<h2>🚀 My Skills</h2>
+<h3 align="left">My Skills</h3>
 
-<div align="center" style="background-color:#1e1e1e; border-radius: 15px; padding: 20px;">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80px" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80px" width="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80px"width="100px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80px" width="100px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="80px"width="100px" />
+</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="80px" width="110px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="80px" width="110px"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" height="80px" width="110px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="80px" width="110px"/>
+  
+</p>
 
-<!-- Row 1 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" style="margin: 15px;" />
-
-<!-- Row 2 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" style="margin: 15px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="50" alt="Pandas" style="margin: 15px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="50" alt="NumPy" style="margin: 15px;" />
-<img src="https://matplotlib.org/_static/images/logo2.svg" height="50" alt="Matplotlib" style="margin: 15px;" />
-
-<!-- Row 3 -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="Scikit-learn" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" style="margin: 15px;" />
-<img src="https://img.icons8.com/color/48/000000/machine-learning.png" height="50" alt="Machine Learning" style="margin: 15px;" />
-
-</div>
 
 
 
