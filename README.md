@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad Khan</h1>
-<table align="center">
-  <tr>
-    <td valign="top">
-      <h3 align="left">Machine Learning Enthusiast <br> Software Engineering Student</h3>
-    </td>
-    <td>
-      <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="280" style="margin-top: 10px;" />
-    </td>
+<h3 align="center">Machine Learning Enthusiast & Software Engineering Student</h3>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="280" />
+</p>
+
   </tr>
 </table>
 
