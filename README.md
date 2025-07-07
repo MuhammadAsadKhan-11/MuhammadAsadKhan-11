@@ -18,7 +18,7 @@
 🌱 I'm a student of Software Engineering at NUML Islamabad, working on Machine Learning & Web Technologies.  
 💻 Currently building projects using Python,  Pandas, and Machine Learning libraries.  
 📊 Interested in solving real-world problems in education, healthcare, and data analysis.  
-📫 How to reach me: **asadkhansp2310861@gmail.com**
+📫 How to reach me: **asadkhans2310861@gmail.com**
 
 <!--🌐 Portfolio: [My Portfolio Website](https://yourportfolio.link) -->
 
