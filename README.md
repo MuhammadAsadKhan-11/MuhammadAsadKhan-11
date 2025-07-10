@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad Khan</h1>
-<h3 align="center">Machine Learning Enthusiast & Software Engineering Student</h3>
+<h3 align="center">🌐 Bridging Data and Intelligence with Code | ML/DL Specialist</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="280" />
