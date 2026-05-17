@@ -1,145 +1,166 @@
-<h1 align="center">Hi 👋, I'm Muhammad Asad Khan</h1>
-<h3 align="center">🤖 ML/DL Engineer in the Making | Software Engineering Student @ NUML Islamabad</h3>
-<h4 align="center"><em>Code. Train. Predict. Repeat.</em></h4>
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="280" />
-</p>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Asad%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20NUML%20Islamabad&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
----
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;ML+%7C+Deep+Learning+%7C+GenAI+%7C+LLMs;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 🌟 About Me
+<br/>
 
-- 🎓 Undergraduate **Software Engineering** student at **NUML Islamabad**
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, **GenAI** & **LLMs**
-- 💼 Currently interning at **DecodesLabs** — building real-world ML & web projects
-- 💻 Building projects using **Python**, **Flask**, **HuggingFace**, **Firebase** & ML libraries
-- 📊 Interested in solving real-world problems in **education**, **healthcare**, and **data analysis**
-- 🌱 Currently exploring **LLMs**, **Prompt Engineering**, **Model Deployment** & **ML Pipelines**
-- 📫 Reach me at: **asadkhans2310861@gmail.com**
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-khan-9a70243a3)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadkhans2310861@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadAsadKhan-11)
+[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAsadKhan-11&label=Profile+Views&color=00C9A7&style=for-the-badge)](https://github.com/MuhammadAsadKhan-11)
 
----
-
-### 💼 Internship
-
-| 🏢 Company | 📌 Role | 📅 Status |
-|-----------|---------|----------|
-| **DecodesLabs** | Machine Learning Intern | 🟢 Ongoing |
+</div>
 
 ---
 
-### 🚀 Projects
+## 🧠 About Me
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔒 [**ElectraGuard**](https://github.com/MuhammadAsadKhan-11) | A full-stack intelligent security system | TypeScript |
-| ⚙️ [**ElectraGuard-Backend**](https://github.com/MuhammadAsadKhan-11/ElectraGuard-backend) | Backend services for ElectraGuard | JavaScript |
-| 🧠 [**Electra-API**](https://github.com/MuhammadAsadKhan-11) | ML-powered Flask API for ElectraGuard | Python / Flask |
-| 🌸 [**Task2 – Iris Dataset**](https://github.com/MuhammadAsadKhan-11/Task2-MuhammadAsadkhan) | Trained & saved Iris dataset ML model | Python / Jupyter |
-| 📓 [**Task3 – DecodesLabs**](https://github.com/MuhammadAsadKhan-11/Task3-MuhammadAsadkhan) | Task 3 of DecodesLabs internship | Jupyter Notebook |
-| 🌐 [**Task1 – DecodesLabs**](https://github.com/MuhammadAsadKhan-11/Task1-MuhammadAsadkhan) | All tasks from DecodesLabs internship | HTML |
-| 🧬 [**Deep-Learning-Projects**](https://github.com/MuhammadAsadKhan-11/Deep-learning-Projects) | Collection of deep learning experiments | Python |
+```python
+class MuhammadAsadKhan:
+    def __init__(self):
+        self.role        = "Machine Learning Engineer (in training)"
+        self.university  = "NUML Islamabad — Software Engineering"
+        self.internship  = "DecodesLabs — ML Intern (Ongoing)"
+        self.interests   = ["ML Pipelines", "LLMs", "GenAI", "Model Deployment"]
+        self.domains     = ["Healthcare", "Education", "Data Analysis"]
+        self.email       = "asadkhans2310861@gmail.com"
+        self.goal        = "Build AI systems that solve real problems"
 
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 👨‍💻 Languages & Core Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="75px" width="90px" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="75px" width="90px" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75px" width="90px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75px" width="90px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75px" width="90px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="75px" width="90px" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="75px" width="90px" title="Jupyter"/>
-</p>
-
-#### 🤖 ML / DL / Data Science
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="75px" width="105px" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="75px" width="105px" title="Pandas"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="75px" width="105px" title="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="75px" width="105px" title="Scikit-learn"/>
-</p>
-
-#### 🌐 Web, Backend & Cloud
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="75px" width="90px" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="75px" width="90px" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="75px" width="90px" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="75px" width="90px" title="GitHub"/>
-</p>
-
-#### 🧠 AI / GenAI / LLM Skills
-
-<p align="center">
-
-| Skill | Level |
-|-------|-------|
-| 🤗 Hugging Face (Transformers, Pipelines) | ⭐⭐⭐⭐ |
-| 🧠 Large Language Models (LLMs) | ⭐⭐⭐⭐ |
-| ✍️ Prompt Engineering | ⭐⭐⭐⭐ |
-| 🌐 Generative AI | ⭐⭐⭐⭐ |
-| 🚀 Model Deployment (Flask / REST API) | ⭐⭐⭐⭐ |
-| 🔁 ML Pipelines | ⭐⭐⭐ |
-| ☁️ Cloud (Firebase / Cloud APIs) | ⭐⭐⭐ |
-| 🔗 REST API Development | ⭐⭐⭐⭐ |
-| 🗂️ Version Control (Git / GitHub) | ⭐⭐⭐⭐ |
-
-</p>
+    def currently_learning(self):
+        return ["RAG Systems", "FastAPI + Docker", "MLOps", "LLM Fine-tuning"]
+```
 
 ---
 
-### 🎓 Certifications
+## 💼 Experience
 
-| Certificate | Issuer |
-|-------------|--------|
-| 🐍 Python for Beginners | Microsoft Learn |
-| 🤖 Machine Learning Fundamentals | DataCamp |
-| 🗄️ SQL for Data Science | Coursera |
-| 📊 Python for Data Science | IBM |
-| 📈 Fundamentals of Digital Marketing | Google |
+<table>
+  <tr>
+    <td><strong>🏢 Company</strong></td>
+    <td><strong>📌 Role</strong></td>
+    <td><strong>📅 Status</strong></td>
+  </tr>
+  <tr>
+    <td><strong>DecodesLabs</strong></td>
+    <td>Machine Learning Intern</td>
+    <td>🟢 Ongoing</td>
+  </tr>
+</table>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAsadKhan-11&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAsadKhan-11&layout=compact&theme=tokyonight" width="380"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAsadKhan-11&theme=tokyonight" width="500"/>
-</p>
+- Building and deploying end-to-end ML and web application projects
+- Developing Flask-based REST APIs to serve model predictions in production
+- Working full-stack: Python backend · Firebase cloud · TypeScript frontend
 
 ---
 
-### 🤝 Let's Connect
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://www.instagram.com/asadkhan_official007/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://wa.me/923258568691" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://github.com/MuhammadAsadkhan-11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-asad-khan-9a70243a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:asadkhans2310861@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<div align="center">
+
+| 🔬 Project | 📝 Description | 🛠️ Stack | 🔗 |
+|---|---|---|---|
+| **SVM Digit Classifier** | Handwritten digit recognition — ~98% accuracy with full pipeline, 8 custom visualizations, model persistence | Python · Scikit-learn · Seaborn | [→ View](https://github.com/MuhammadAsadKhan-11/SVM-digit-recognition) |
+| **ElectraGuard** | Intelligent full-stack security system with ML-powered API backend | TypeScript · Python · Flask | [→ View](https://github.com/MuhammadAsadKhan-11) |
+| **Electra-API** | REST API serving real-time ML predictions for ElectraGuard | Python · Flask | [→ View](https://github.com/MuhammadAsadKhan-11) |
+| **Deep Learning Projects** | Collection of DL experiments and model implementations | Python · TensorFlow · Jupyter | [→ View](https://github.com/MuhammadAsadKhan-11/Deep-learning-Projects) |
+| **Iris ML Model** | End-to-end classification pipeline with training & model persistence | Python · Scikit-learn | [→ View](https://github.com/MuhammadAsadKhan-11/Task2-MuhammadAsadkhan) |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAsadKhan-11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">⭐ <em>If you find my projects useful, consider giving them a star!</em> ⭐</p>
+<div align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**ML / AI / Data Science**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+
+**Web, Backend & Cloud**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+![Microsoft](https://img.shields.io/badge/Python%20for%20Beginners-Microsoft%20Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![DataCamp](https://img.shields.io/badge/ML%20Fundamentals-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
+![Coursera](https://img.shields.io/badge/SQL%20for%20Data%20Science-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![IBM](https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![Google](https://img.shields.io/badge/Digital%20Marketing%20Fundamentals-Google-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAsadKhan-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAsadKhan-11&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAsadKhan-11&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAsadKhan-11&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 🔭 Currently Exploring
+
+- 🔗 **RAG Systems** — Retrieval-Augmented Generation with LLMs
+- 🐳 **MLOps** — Model deployment with FastAPI + Docker
+- 📊 **MNIST & large-scale datasets** — scaling beyond toy problems
+- 🧪 **LLM Fine-tuning** — domain-specific model adaptation
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+*Open to junior ML engineer roles, research collaborations, and internship extensions.*
+*Feel free to reach out — let's build something meaningful together.*
+
+</div>
