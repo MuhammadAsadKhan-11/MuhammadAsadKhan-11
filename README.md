@@ -25,9 +25,9 @@
 ```python
 class MuhammadAsadKhan:
     def __init__(self):
-        self.role        = "Machine Learning Engineer (in training)"
+        self.role        = "Machine Learning Engineer "
         self.university  = "NUML Islamabad — Software Engineering"
-        self.internship  = "DecodesLabs — ML Intern (Ongoing)"
+        self.internship  = "DecodesLabs — AI /ML Intern (completed)"
         self.interests   = ["ML Pipelines", "LLMs", "GenAI", "Model Deployment"]
         self.domains     = ["Healthcare", "Education", "Data Analysis"]
         self.email       = "asadkhans2310861@gmail.com"
