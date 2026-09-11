@@ -50,7 +50,12 @@ class MuhammadAsadKhan:
   <tr>
     <td><strong>DecodesLabs</strong></td>
     <td>Machine Learning Intern</td>
-    <td>🟢 Ongoing</td>
+    <td>🟢 completed</td>
+  </tr>
+   <tr>
+    <td><strong>SafeX solutions</strong></td>
+    <td>AI/ML Intern</td>
+    <td>🟢 completed</td>
   </tr>
 </table>
 
