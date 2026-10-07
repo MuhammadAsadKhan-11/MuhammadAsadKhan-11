@@ -1,16 +1,17 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Asad%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20NUML%20Islamabad&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Asad%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Generative%20AI%20%7C%20NUML%20Islamabad&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;ML+%7C+Deep+Learning+%7C+GenAI+%7C+LLMs;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;ML+%7C+Deep+Learning+%7C+GenAI+%7C+LLMs+%7C+RAG;Shipping+AI+from+Prototype+to+Production+%F0%9F%9A%80;Open+to+Generative+AI+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C9A7?style=for-the-badge&logo=netlify&logoColor=white)](https://asad-khan-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-khan-9a70243a3)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadkhans2310861@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadAsadKhan-11)
@@ -25,16 +26,17 @@
 ```python
 class MuhammadAsadKhan:
     def __init__(self):
-        self.role        = "Machine Learning Engineer "
-        self.university  = "NUML Islamabad — Software Engineering"
-        self.internship  = "DecodesLabs — AI /ML Intern (completed)"
-        self.interests   = ["ML Pipelines", "LLMs", "GenAI", "Model Deployment"]
-        self.domains     = ["Healthcare", "Education", "Data Analysis"]
+        self.role        = "Machine Learning Engineer"
+        self.university  = "NUML Islamabad, BS Software Engineering (final year)"
+        self.internships = ["SAFEX Solutions: AI/ML Intern", "DecodesLab: AI Developer Intern"]
+        self.interests   = ["Generative AI", "RAG Systems", "ML Pipelines", "Model Deployment"]
+        self.also        = ["Fiverr freelancer (ML/MLOps + AI video)", "Founder of DigiServe"]
+        self.portfolio   = "https://asad-khan-portfolio.netlify.app/"
         self.email       = "asadkhans2310861@gmail.com"
         self.goal        = "Build AI systems that solve real problems"
 
     def currently_learning(self):
-        return ["RAG Systems", "FastAPI + Docker", "MLOps", "LLM Fine-tuning"]
+        return ["LangChain Agents", "FastAPI + Docker", "MLOps", "LLM Fine-tuning"]
 ```
 
 ---
@@ -45,23 +47,38 @@ class MuhammadAsadKhan:
   <tr>
     <td><strong>🏢 Company</strong></td>
     <td><strong>📌 Role</strong></td>
-    <td><strong>📅 Status</strong></td>
+    <td><strong>📅 Period</strong></td>
   </tr>
   <tr>
-    <td><strong>DecodesLabs</strong></td>
-    <td>Machine Learning Intern</td>
-    <td>🟢 completed</td>
-  </tr>
-   <tr>
-    <td><strong>SafeX solutions</strong></td>
+    <td><strong>SAFEX Solutions</strong></td>
     <td>AI/ML Intern</td>
-    <td>🟢 completed</td>
+    <td>Jul 2026 - august 2026</td>
+  </tr>
+  <tr>
+    <td><strong>DecodesLab</strong></td>
+    <td>AI Developer Intern</td>
+    <td>Jan 2026</td>
+  </tr>
+  <tr>
+    <td><strong>Fiverr</strong></td>
+    <td>Freelance ML/MLOps Engineer & AI Video Producer</td>
+    <td>Ongoing</td>
+  </tr>
+  <tr>
+    <td><strong>DigiServe</strong></td>
+    <td>Founder (digital software house)</td>
+    <td>Ongoing</td>
+  </tr>
+  <tr>
+    <td><strong>Rafahiyah Foundation</strong></td>
+    <td>Marketing Team Member (non-profit)</td>
+    <td>Ongoing</td>
   </tr>
 </table>
 
-- Building and deploying end-to-end ML and web application projects
-- Developing Flask-based REST APIs to serve model predictions in production
-- Working full-stack: Python backend · Firebase cloud · TypeScript frontend
+- Building and deploying RAG chatbots, LLM automation pipelines and AI agents with OpenAI/Gemini APIs and LangChain
+- Developing Flask and FastAPI services that serve model predictions in production (Render)
+- Working full-stack: Python backend · Firebase cloud · TypeScript / React Native frontend
 
 ---
 
@@ -71,9 +88,13 @@ class MuhammadAsadKhan:
 
 | 🔬 Project | 📝 Description | 🛠️ Stack | 🔗 |
 |---|---|---|---|
-| **SVM Digit Classifier** | Handwritten digit recognition — ~98% accuracy with full pipeline, 8 custom visualizations, model persistence | Python · Scikit-learn · Seaborn | [→ View](https://github.com/MuhammadAsadKhan-11/SVM-digit-recognition) |
-| **ElectraGuard** | Intelligent full-stack security system with ML-powered API backend | TypeScript · Python · Flask | [→ View](https://github.com/MuhammadAsadKhan-11) |
-| **Electra-API** | REST API serving real-time ML predictions for ElectraGuard | Python · Flask | [→ View](https://github.com/MuhammadAsadKhan-11) |
+| **ElectraGuard** | Final year project: ensemble ML electricity theft detection (94% accuracy) with a Gemini RAG chatbot, React Native app and Firebase admin portal | Python · TensorFlow · React Native · Firebase | [→ View](https://github.com/MuhammadAsadKhan-11/ElectraGuard) |
+| **Electra-API** | REST API serving real-time ML predictions for ElectraGuard | Python · Flask | [→ View](https://github.com/MuhammadAsadKhan-11/Electra-api) |
+| **Report Generation Agent** | Turns weekly activity CSVs into Word reports: KPIs via pandas, Gemini narrative grounded in the computed numbers, auto-generated charts | Flask · Gemini · pandas | [→ View](https://github.com/MuhammadAsadKhan-11) |
+| **Meridian Estates AI Chatbot** | RAG chatbot for a real-estate agency, deployed on Render | FastAPI · TF-IDF · Gemini | [→ View](https://github.com/MuhammadAsadKhan-11/realstate-chatbot) |
+| **AI Email Assistant** | Classifies, summarizes and drafts replies using entity extraction and RAG policy retrieval | FastAPI · TF-IDF · Gemini | [→ View](https://github.com/MuhammadAsadKhan-11/email_assistant-prototype) |
+| **SoplexAI Website Assistant** *(in progress)* | Website AI assistant with RAG knowledge base, intent detection and lead routing | RAG · LLMs | In progress |
+| **SVM Digit Classifier** | Handwritten digit recognition at ~98% accuracy with full pipeline, 8 custom visualizations, model persistence | Python · Scikit-learn · Seaborn | [→ View](https://github.com/MuhammadAsadKhan-11/SVM-digit-recognition) |
 | **Deep Learning Projects** | Collection of DL experiments and model implementations | Python · TensorFlow · Jupyter | [→ View](https://github.com/MuhammadAsadKhan-11/Deep-learning-Projects) |
 | **Iris ML Model** | End-to-end classification pipeline with training & model persistence | Python · Scikit-learn | [→ View](https://github.com/MuhammadAsadKhan-11/Task2-MuhammadAsadkhan) |
 
@@ -94,24 +115,37 @@ class MuhammadAsadKhan:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**ML / AI / Data Science**
+**Generative AI & LLMs**
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+
+**ML / Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
 **Web, Backend & Cloud**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
@@ -124,10 +158,11 @@ class MuhammadAsadKhan:
 
 <div align="center">
 
+![IBM](https://img.shields.io/badge/Python%20for%20AI%20%26%20Data%20Science-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![Cisco](https://img.shields.io/badge/Python%20Essentials%20for%20Analytics-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
+![DataCamp](https://img.shields.io/badge/Machine%20Learning-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
 ![Microsoft](https://img.shields.io/badge/Python%20for%20Beginners-Microsoft%20Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![DataCamp](https://img.shields.io/badge/ML%20Fundamentals-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black)
 ![Coursera](https://img.shields.io/badge/SQL%20for%20Data%20Science-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
-![IBM](https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
 ![Google](https://img.shields.io/badge/Digital%20Marketing%20Fundamentals-Google-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </div>
@@ -153,9 +188,9 @@ class MuhammadAsadKhan:
 
 ## 🔭 Currently Exploring
 
-- 🔗 **RAG Systems** — Retrieval-Augmented Generation with LLMs
-- 🐳 **MLOps** — Model deployment with FastAPI + Docker
-- 📊 **MNIST & large-scale datasets** — scaling beyond toy problems
+- 🔗 **RAG Systems** — retrieval pipelines, embeddings and grounded LLM answers
+- 🤖 **AI Agents** — multi-agent orchestration with LangChain
+- 🐳 **MLOps** — model deployment with FastAPI + Docker
 - 🧪 **LLM Fine-tuning** — domain-specific model adaptation
 
 ---
@@ -165,7 +200,7 @@ class MuhammadAsadKhan:
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-*Open to junior ML engineer roles, research collaborations, and internship extensions.*
-*Feel free to reach out — let's build something meaningful together.*
+*Open to Generative AI internships, junior ML engineer roles and research collaborations.*
+*Feel free to reach out. Let's build something meaningful together.*
 
 </div>
